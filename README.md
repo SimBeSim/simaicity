@@ -1,4 +1,4 @@
-[Nederlands](leesmij.md)
+[Nederlands](LEESMIJ.md)
 
 
 # SimAICity
