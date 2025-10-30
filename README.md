@@ -1,6 +1,5 @@
-<p align="right">
-  <a href="leesmij.md" style="font-weight:bold;padding:8px 16px;background:#4ecb71;color:#fff;border-radius:6px;text-decoration:none;">🇳🇱 Nederlands</a>
-</p>
+[Nederlands](leesmij.md)
+
 
 # SimAICity
 
