@@ -1,3 +1,5 @@
+[English](README.md)
+
 # SimAICity
 
 **Welkom bij SimAICity**  
